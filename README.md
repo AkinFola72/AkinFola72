@@ -7,7 +7,7 @@
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-I am a learner of the ALX **[Front-End Web Development Program]** and I am currently revamping my GitHub profile to make it stand out in my job search journey.
+I am a learner of the ALX **Front-End Web Development Program** and I am currently revamping my GitHub profile to make it stand out in my job search journey.
 
 ✨ Here's why I started with software engineering:  
 > _"My motivation is to solve real-world problems through code, by building innovative digital solutions in Healthcaare and turning ideas into impactful products."_
