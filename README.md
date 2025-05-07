@@ -58,9 +58,9 @@ Here are some of the projects I’m most proud of:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkinFola72&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinFola72&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,13 +69,13 @@ Here are some of the projects I’m most proud of:
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[your-linkedin-id]" target="_blank">
+  <a href="https://www.linkedin.com/in/akinrolabu-paul-24178571" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[your.email@example.com]">
+  <a href="mailto:akinrolabupaul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/[your-twitter-handle]" target="_blank">
+  <a href="https://twitter.com/@slik_noni" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
