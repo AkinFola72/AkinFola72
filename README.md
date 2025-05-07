@@ -1,28 +1,28 @@
 <!-- Profile Banner or Greeting -->
 <h1 align="center">Hi there 👋, I'm Akinrolabu Paul</h1>
-<h3 align="center">🚀 A Passionate Software Engineer | ALX [Specify Program, e.g., SE Program] Learner</h3>
+<h3 align="center">🚀 A Passionate Software Engineer | ALX [Front-End Web Development] Learner</h3>
 
 ---
 
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-I am a learner of the ALX **[Specify Program, e.g., Software Engineering Program]** and I am currently revamping my GitHub profile to make it stand out in my job search journey.
+I am a learner of the ALX **[Front-End Web Development Program]** and I am currently revamping my GitHub profile to make it stand out in my job search journey.
 
 ✨ Here's why I started with software engineering:  
-> _"[Insert a personal motivation or story — e.g., solving real-world problems through code, building innovative digital solutions, or turning ideas into impactful products.]"_
+> _"My motivation is to solve real-world problems through code, by building innovative digital solutions in Healthcaare and turning ideas into impactful products."_
 
 🔥 I'm passionate about:  
-- [e.g., Full-stack Web Development]  
-- [e.g., Open Source Collaboration]  
-- [e.g., AI & Machine Learning]  
-- [e.g., Scalable Cloud Architecture]
+- Full-stack Web Development 
+- Health-Tech
+- AI & Machine Learning  
+- Data Analysis
 
 🎯 My vision is to:  
-> _"[Insert your professional vision — e.g., build inclusive technology that drives change, create tools that empower others, contribute to open innovation, etc.]"_
+> _"build systems with code and technology to drive change in Healthcare and the world at large, create and use tools that empower others and contribute to open innovation which promotes inclusivity"_
 
 👨‍💻 I am actively working on:  
-- [Types of projects you want to work on — e.g., fintech solutions, dev tools, e-learning platforms, etc.]
+- myself as I believe I am the farm the farmer needs to cultivate and nurture to bring forth good produce
 
 ---
 
@@ -49,9 +49,8 @@ Here are some of the projects I’m most proud of:
 
 | Project | Description | Tech Stack |
 |--------|-------------|-------------|
-| [Project Name](#) | A short and compelling one-liner about what it does. | Python, Flask, PostgreSQL |
-| [Project Name](#) | Describe what problem it solves or who it helps. | React, Node.js, MongoDB |
-| [Project Name](#) | Share the impact or learning involved. | Docker, AWS, CI/CD |
+| [Patient Management System](#) | It is a project that addresses the limitation of paper based data in hospitals. |(https://docs.google.com/presentation/d/1e8XBpT5M2UPItf034sD3AJrgxtt3Jw5bCPZVnboKxLs/edit?usp=sharing)L |
+
 
 ---
 
